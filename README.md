@@ -19,7 +19,7 @@ nibbler [Width] [Height] [Library]
 
 you can find the libraries on */Plugin*
 
-## control
+## Controls
 [LEFT] / [RIGHT] -  turn left
 
 [UP] / [DOWN]    -  Increase/Decrease the speed
