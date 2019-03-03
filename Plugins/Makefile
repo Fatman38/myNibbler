@@ -17,8 +17,8 @@ CXXFLAGS	+= -I./include/ -I../include/ -I../../include/
 CXXFLAGS	+= -fPIC -shared
 CXXFLAGS	+= -D SFML_NO_DEPRECATED_WARNINGS
 
-LDFLAGS		= -I/usr/local/include -L/usr/local/lib
-
+#LDFLAGS		= -I/usr/local/include -L/usr/local/lib
+LDFLAGS		= -I/usr/include -L/usr/lib
 
 NCURSES		= lib_nibbler_ncurses.so
 NCURSES_SRC	= NCURSES/LibNcurses.cpp

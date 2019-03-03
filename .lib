@@ -1,0 +1,3 @@
+./Plugins/lib_nibbler_ncurses.so
+./Plugins/lib_nibbler_opengl.so
+./Plugins/lib_nibbler_sfml.so
